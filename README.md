@@ -1,8 +1,13 @@
-## Hi there 👋
+## 👋 Hi there! I'm void  
 
-Im void! Im a guy from Poland that gives himself unnecessarily difficult challenges when it comes to programing and then loses his mind trying to complete them lol. Feel free to follow my journey through my various repos!
+I'm a developer from **Poland 🇵🇱** who loves giving myself *unnecessarily difficult* programming challenges — and then slowly losing my mind trying to finish them 😅.  
 
-- 🔭 I’m currently working on nothing particular
-- 🌱 I’m currently learning C++
-- 📫 How to reach me:
-  * Discord: grapejuice5563
+Welcome to my little corner of GitHub, where I share my coding adventures and experiments.  
+
+---
+
+### 🧠 About Me
+- 💻 Currently exploring **C++**
+- 🧩 I like experimenting, breaking things, and (eventually) fixing them  
+- 🔭 Not focused on any particular project right now — just following curiosity  
+- ☕ Fueled by coffee and questionable ideas that somehow turn into code  
