@@ -7,7 +7,7 @@ Welcome to my little corner of GitHub, where I share my coding adventures and ex
 ---
 
 ### 🧠 About Me
-- 💻 Currently exploring **C++**
+- 💻 Currently exploring **too many things to list ;/**
 - 🧩 I like experimenting, breaking things, and (eventually) fixing them  
 - 🔭 Not focused on any particular project right now — just following curiosity  
 - ☕ Fueled by coffee and questionable ideas that somehow turn into code  
