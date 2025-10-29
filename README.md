@@ -1,13 +1,11 @@
-## 👋 Hi there! I'm void  
-
-I'm a developer from **Poland 🇵🇱** who loves giving myself *unnecessarily difficult* programming challenges — and then slowly losing my mind trying to finish them 😅.  
-
-Welcome to my little corner of GitHub, where I share my coding adventures and experiments.  
+# Hi, I'm voidVoy7
 
 ---
 
-### 🧠 About Me
-- 💻 Currently exploring **too many things to list ;/**
-- 🧩 I like experimenting, breaking things, and (eventually) fixing them  
-- 🔭 Not focused on any particular project right now — just following curiosity  
-- ☕ Fueled by coffee and questionable ideas that somehow turn into code  
+## About Me
+I'm a developer from **Poland**, using **Linux** as my daily operating system.  
+I enjoy working on projects that capture my interest — regardless of their scope, technology, or field.
+
+## Approach
+I focus on ideas that spark my curiosity and use the languages and tools I feel most comfortable with to bring them to life.  
+This profile is a collection of **experiments**, **utilities**, and **learning projects** that reflect that mindset.
