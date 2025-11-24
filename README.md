@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-I'm a developer from **Poland**, using **Linux** as my daily operating system.  
+I'm a developer from **Poland**, using **Linux** and **MacOS** as my daily operating systems.  
 I enjoy working on projects that capture my interest — regardless of their scope, technology, or field.
 
 ## Approach
